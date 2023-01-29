@@ -1,20 +1,20 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Sezer
+## 👷🏻‍♀️👋🏻 Hi there, I'm Mehmet
 
-<font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
+<font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-<font color="pink"> 🧐 A new age enthusiast. </font>
+<font color="pink"> 🧐 A new technology enthusiast. </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezer-%C3%B6kmen-971a21236/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ta%C5%9Fk%C4%B1n-/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:0mttaskin1@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@mttaskin)
 
 </br>
 </br>

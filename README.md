@@ -121,4 +121,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      /> <br/>
 </div>
 <br/>
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)

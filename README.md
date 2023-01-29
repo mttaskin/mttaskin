@@ -121,4 +121,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      /> <br/>
 </div>
 <br/>
-github-contribution-snake.svg
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)

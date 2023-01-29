@@ -66,8 +66,8 @@
         alt="Django"
       />
 <img
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-        alt="Nodejs"
+        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+        alt="typescript"
       />
 <img
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -86,6 +86,11 @@
 <img 
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
+      />
+      </br>
+      <img 
+      src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+      alt="postman"
       />
 
 </div>
@@ -115,3 +120,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+<br/>
+github-contribution-snake.svg

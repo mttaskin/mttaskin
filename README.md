@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Mehmet
+## 👷🏻‍♀️[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mehmet;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
 <font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
 </br>
@@ -102,10 +102,10 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://mttaskin.github.io/todo-App/) <h3>[Repo](https://github.com/mttaskin/todo-App/)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-
-
-
+[Todo App](https://mttaskin.github.io/todo-App/) <h3>[Repo](https://github.com/mttaskin/todo-App/)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[bootstrap-responsive-project](https://mttaskin.github.io/bootstrap-responsive-project/) <h3>[Repo](https://github.com/mttaskin/bootstrap-responsive-project)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
+[Website Page Design with SASS](https://mttaskin.github.io/sass-project/) <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
+[checkout project](https://mttaskin.github.io/sass-project/) <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 <br>
 
 <h2 align="center">💡Most Used Language</h2>
@@ -122,4 +122,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 </div>
 <br/>
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+

@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mehmet;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mehmet;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
 <font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
 </br>
@@ -13,7 +13,7 @@
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-taskin-/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:0mttaskin1@gmail.com)
+[![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0mttaskin1@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@mttaskin)
 
 </br>
@@ -123,3 +123,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <br/>
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
 
+<p align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g"  width="350" height="200"></p>

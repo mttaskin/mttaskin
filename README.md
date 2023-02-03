@@ -104,7 +104,7 @@
 
 ###
 
-Project Demo      |My Repo        |Libraries and Technologies I use      |Project Preview   
+Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
 [Todo App](https://mttaskin.github.io/todo-App/) | <h3>[Repo](https://github.com/mttaskin/todo-App/)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 [bootstrap-responsive-project](https://mttaskin.github.io/bootstrap-responsive-project/) | <h3>[Repo](https://github.com/mttaskin/bootstrap-responsive-project)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)

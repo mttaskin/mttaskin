@@ -111,7 +111,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [Website Page Design with SASS](https://mttaskin.github.io/sass-project/) | <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
 [checkout project](https://mttaskin.github.io/checkout-project/) | <h3>[Repo](https://github.com/mttaskin/checkout-project/)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [Weather App](https://mttaskin.github.io/weatherAppp/) | <h3>[Repo](https://github.com/mttaskin/weatherAppp)</h3>|js, aes.js, extentions.js, axios, async await, API|![weather](https://user-images.githubusercontent.com/97898216/177019349-7f329dc5-ed5f-427e-aced-fac5736b5ec9.gif)
-[jQuery Weather App](https://github.com/mttaskin/jQuery-weatherApp) | <h3>[Repo](https://github.com/mttaskin/weatherAppp)</h3>|jQuery, aes.js, extentions.js, axios, async await, API|![weather](https://github.com/mttaskin/jQuery-weatherApp/blob/main/weather_app.gif)
 <br>
 
 <h2 align="center">💡Most Used Language</h2>

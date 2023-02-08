@@ -19,7 +19,7 @@
 </br>
 </br>
 </br>
-### Visitors Count
+#### 🧐 VİSİTORS COUNTER
 <img align="left" src = "https://profile-counter.glitch.me/mttaskin/count.svg" alt ="Loading">
 <br>
 <hr>

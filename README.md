@@ -58,34 +58,14 @@
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
         alt="Sass"
       />
-
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
      />
-
-<!-- <img
-        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="Python"
-      />
-<img
-        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-        alt="Django"
-      /> -->
 <img
         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
         alt="typescript"
       />
-<!-- <img
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-        alt="PostgreSQL"
-      /> -->
-
-<img
-        src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-        alt="Heroku"
-      />
-
 <img 
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
@@ -125,7 +105,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 <img
      src="https://github-readme-stats.vercel.app/api?username=mttaskin&theme=blue-green"
      alt=""
-     /> </br></br></br>
+     />
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttaskin&theme=blue-green"
      alt=""

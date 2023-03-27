@@ -90,7 +90,7 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[React Movie App](https://react-movie-app-mt.netlify.app/) | <h3>[Repo](https://github.com/mttaskin/react-movie-app-tailwind)</h3> | Reactjs, React-Router, Axios, Tailwind, Firebase, React-toastify, TMDB-Api, React-context, live user authentication |![movieapp](movie-app.gif)
+[React Movie App](https://react-movie-app-mt.netlify.app/) | <h3>[Repo](https://github.com/mttaskin/react-movie-app-tailwind)</h3> | Reactjs, React-Router, Axios, Tailwind, Firebase, React-toastify, TMDB-Api, React-context, live user authentication |![movieapp](https://user-images.githubusercontent.com/118939050/227712524-b29658a8-bca3-4e8f-ab23-289fb963a51f.gif)
 [React Horoscope App](https://react-horoscope-app-mt.netlify.app/) | <h3>[Repo](https://github.com/mttaskin/React-Horoscope-App)</h3> | Reactjs, SASS |![horoscope](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
 [React Appointment App](https://mttaskin.github.io/react-appointment-app/) | <h3>[Repo](https://github.com/mttaskin/react-appointment-app)</h3> | Reactjs, bootstrap, useState |![appointment](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
 [Todo App](https://mttaskin.github.io/todo-App/) | <h3>[Repo](https://github.com/mttaskin/todo-App/)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
